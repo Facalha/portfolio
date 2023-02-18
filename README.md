@@ -13,3 +13,6 @@ Aprendi recursos como:
 - Posicionamento com Flexbox;
 - Unidades de medidas;
 - Responsividade com o método mobile first;
+
+
+Link para o site no ar: https://portfolio-wine-pi-77.vercel.app
